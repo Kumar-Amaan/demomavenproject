@@ -156,6 +156,7 @@ public class Aman_Kumar {
 
 //		path of the file to be selected......
 		choose_file.sendKeys("C:\\Users\\Deepak.9.kumar\\eclipse-workspace\\DemoQA\\src\\Driver\\aman.png");
+			choose_file.sendKeys("C:\Users\FL_LPT-374\OneDrive\Pictures\Screenshots");
 		Thread.sleep(2000);
 	}
 
